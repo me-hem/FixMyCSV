@@ -1,0 +1,7 @@
+rich
+questionary
+pandas
+pydantic
+backboard-sdk
+python-dotenv
+google-genai
